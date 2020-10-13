@@ -1,6 +1,6 @@
 # `fetch()` Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Use `fetch()` to programmatically make a web request
 
